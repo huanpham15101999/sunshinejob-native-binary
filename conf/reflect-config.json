@@ -1,0 +1,516 @@
+[
+{
+  "name":"[B"
+},
+{
+  "name":"[C"
+},
+{
+  "name":"[D"
+},
+{
+  "name":"[F"
+},
+{
+  "name":"[I"
+},
+{
+  "name":"[J"
+},
+{
+  "name":"[Ljava.lang.String;"
+},
+{
+  "name":"[Ljavax.management.openmbean.CompositeData;"
+},
+{
+  "name":"[Lorg.springframework.util.ConcurrentReferenceHashMap$Reference;"
+},
+{
+  "name":"[Lorg.springframework.util.ConcurrentReferenceHashMap$Segment;"
+},
+{
+  "name":"[S"
+},
+{
+  "name":"[Z"
+},
+{
+  "name":"com.sun.management.GarbageCollectorMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.GcInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.HotSpotDiagnosticMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.OperatingSystemMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.ThreadMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.VMOption",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.internal.GarbageCollectorExtImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.sun.management.internal.HotSpotDiagnostic",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.sun.management.internal.HotSpotThreadImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.sun.management.internal.OperatingSystemImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.sun.org.apache.xerces.internal.impl.dv.xs.ExtendedSchemaDVFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.org.apache.xerces.internal.impl.dv.xs.SchemaDVFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"fisglobal.app.ScGlobalCacheManager"
+},
+{
+    "name": "fisglobal.jdbc.driver.ScDriver",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "allDeclaredFields": true
+}, 
+{
+    "name": "fisglobal.him_pa.transports.ScMQTransport",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+},
+  {
+    "name": "fisglobal.utils.objectpool.ScMQCommPool",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+{
+  "name":"java.beans.PropertyVetoException"
+},
+{
+  "name":"java.lang.AutoCloseable"
+},
+{
+  "name":"java.lang.Boolean",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Byte",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Character",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Deprecated",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.Double",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Float",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Integer",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Long",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Object",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.ObjectBeanInfo"
+},
+{
+  "name":"java.lang.ObjectCustomizer"
+},
+{
+  "name":"java.lang.Short",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.StackTraceElement",
+  "queryAllPublicMethods":true
+},  {
+    "name": "fisglobal.utils.objectpool.ScMQCommPool",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "fisglobal.jdbc.thin.ScProfAccess",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true,
+    "allDeclaredFields": true
+  },
+{
+  "name":"java.lang.String",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Thread",
+  "methods":[{"name":"getContextClassLoader","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.Void",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.management.BufferPoolMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.ClassLoadingMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.CompilationMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.LockInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.ManagementPermission",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"java.lang.management.MemoryMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.MemoryManagerMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.MemoryPoolMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.MemoryUsage",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.MonitorInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.PlatformLoggingMXBean",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"getLoggerLevel","parameterTypes":["java.lang.String"] }, {"name":"getLoggerNames","parameterTypes":[] }, {"name":"getParentLoggerName","parameterTypes":["java.lang.String"] }, {"name":"setLoggerLevel","parameterTypes":["java.lang.String","java.lang.String"] }]
+},
+{
+  "name":"java.lang.management.RuntimeMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.ThreadInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.reflect.Executable"
+},
+{
+  "name":"java.lang.reflect.ParameterizedType",
+  "methods":[{"name":"getActualTypeArguments","parameterTypes":[] }, {"name":"getRawType","parameterTypes":[] }]
+},
+{
+  "name":"java.math.BigDecimal"
+},
+{
+  "name":"java.math.BigInteger"
+},
+{
+  "name":"java.sql.SQLException",
+  "fields":[{"name":"next"}]
+},
+{
+  "name":"java.time.ZoneId"
+},
+{
+  "name":"java.util.Date"
+},
+{
+  "name":"java.util.Locale",
+  "methods":[{"name":"getDefault","parameterTypes":["java.util.Locale$Category"] }]
+},
+{
+  "name":"java.util.Locale$Category"
+},
+{
+  "name":"java.util.Optional",
+  "methods":[{"name":"empty","parameterTypes":[] }]
+},
+{
+  "name":"java.util.PropertyPermission",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","java.lang.String"] }]
+},
+{
+  "name":"java.util.concurrent.atomic.AtomicBoolean",
+  "fields":[{"name":"value"}]
+},
+{
+  "name":"java.util.logging.LogManager",
+  "methods":[{"name":"getLoggingMXBean","parameterTypes":[] }]
+},
+{
+  "name":"java.util.logging.LoggingMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.util.stream.Stream"
+},
+{
+  "name":"javax.management.MBeanOperationInfo",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"getSignature","parameterTypes":[] }]
+},
+{
+  "name":"javax.management.MBeanServerBuilder",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"javax.management.ObjectName"
+},
+{
+  "name":"javax.management.StandardEmitterMBean",
+  "methods":[{"name":"cacheMBeanInfo","parameterTypes":["javax.management.MBeanInfo"] }, {"name":"getCachedMBeanInfo","parameterTypes":[] }, {"name":"getMBeanInfo","parameterTypes":[] }]
+},
+{
+  "name":"javax.management.openmbean.CompositeData"
+},
+{
+  "name":"javax.management.openmbean.OpenMBeanOperationInfoSupport"
+},
+{
+  "name":"javax.management.openmbean.TabularData"
+},
+{
+  "name":"jdk.management.jfr.ConfigurationInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"jdk.management.jfr.EventTypeInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"jdk.management.jfr.FlightRecorderMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"jdk.management.jfr.FlightRecorderMXBeanImpl",
+  "queryAllPublicConstructors":true,
+  "methods":[{"name":"cacheMBeanInfo","parameterTypes":["javax.management.MBeanInfo"] }, {"name":"getCachedMBeanInfo","parameterTypes":[] }, {"name":"getMBeanInfo","parameterTypes":[] }, {"name":"getNotificationInfo","parameterTypes":[] }]
+},
+{
+  "name":"jdk.management.jfr.RecordingInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"jdk.management.jfr.SettingDescriptorInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"oracle.as.jmx.framework.PortableMBeanFactory"
+},
+{
+  "name":"oracle.jdbc.OracleDriver"
+},
+{
+  "name":"oracle.jdbc.driver.DiagnosabilityMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"oracle.jdbc.driver.Message11",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"oracle.jdbc.driver.OracleDiagnosabilityMBean",
+  "queryAllPublicConstructors":true,
+  "methods":[{"name":"cacheMBeanInfo","parameterTypes":["javax.management.MBeanInfo"] }, {"name":"getCachedMBeanInfo","parameterTypes":[] }, {"name":"getMBeanInfo","parameterTypes":[] }]
+},
+{
+  "name":"oracle.security.pki.OraclePKIProvider"
+},
+{
+  "name":"oracle.xdb.XMLType"
+},
+{
+  "name":"org.apache.commons.logging.LogFactory"
+},
+{
+  "name":"org.apache.commons.logging.impl.Log4JLogger",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String"] }, {"name":"setLogFactory","parameterTypes":["org.apache.commons.logging.LogFactory"] }]
+},
+{
+  "name":"org.apache.commons.logging.impl.LogFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.commons.logging.impl.WeakHashtable",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.log4j.Category"
+},
+{
+  "name":"org.apache.log4j.CategoryKey"
+},
+{
+  "name":"org.apache.log4j.ConsoleAppender",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.log4j.Layout",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.log4j.LayoutBeanInfo"
+},
+{
+  "name":"org.apache.log4j.LayoutCustomizer"
+},
+{
+  "name":"org.apache.log4j.Level",
+  "fields":[{"name":"TRACE"}]
+},
+{
+  "name":"org.apache.log4j.Logger"
+},
+{
+  "name":"org.apache.log4j.PatternLayout",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }, {"name":"setConversionPattern","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"org.apache.log4j.PatternLayoutBeanInfo"
+},
+{
+  "name":"org.apache.log4j.PatternLayoutCustomizer"
+},
+{
+  "name":"org.apache.log4j.Priority"
+},
+{
+  "name":"org.apache.log4j.spi.Configurator"
+},
+{
+  "name":"org.apache.log4j.spi.OptionHandler",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.log4j.xml.DOMConfigurator",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.springframework.beans.ExtendedBeanInfoFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.springframework.beans.factory.FactoryBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.springframework.beans.factory.FactoryBeanCustomizer"
+},
+{
+  "name":"org.springframework.beans.factory.InitializingBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.springframework.beans.factory.InitializingBeanCustomizer"
+},
+{
+  "name":"org.springframework.beans.factory.config.PropertiesFactoryBean",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.springframework.beans.factory.config.PropertiesFactoryBeanBeanInfo"
+},
+{
+  "name":"org.springframework.beans.factory.config.PropertiesFactoryBeanCustomizer"
+},
+{
+  "name":"org.springframework.beans.factory.xml.DefaultBeanDefinitionDocumentReader",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.springframework.beans.factory.xml.XmlBeanDefinitionReader",
+  "allPublicFields":true
+},
+{
+  "name":"org.springframework.core.io.support.PropertiesLoaderSupport",
+  "allDeclaredFields":true,
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"setIgnoreResourceNotFound","parameterTypes":["boolean"] }, {"name":"setLocations","parameterTypes":["org.springframework.core.io.Resource[]"] }]
+},
+{
+  "name":"org.springframework.core.io.support.PropertiesLoaderSupportBeanInfo"
+},
+{
+  "name":"org.springframework.core.io.support.PropertiesLoaderSupportCustomizer"
+},
+{
+  "name":"sun.management.ClassLoadingImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.CompilationImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.ManagementFactoryHelper$1",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.ManagementFactoryHelper$PlatformLoggingImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.MemoryImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.MemoryManagerImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.MemoryPoolImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.RuntimeImpl",
+  "queryAllPublicConstructors":true
+}
+]

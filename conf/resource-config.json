@@ -1,0 +1,38 @@
+{
+  "resources":{
+  "includes":[{
+    "pattern":"\\QMETA-INF/services/java.sql.Driver\\E"
+  }, {
+    "pattern":"\\QMETA-INF/spring.factories\\E"
+  }, {
+    "pattern":"\\QMETA-INF/spring.schemas\\E"
+  }, {
+    "pattern":"\\Qapplication.properties\\E"
+  }, {
+    "pattern":"\\QapplicatonContextMini.xml\\E"
+  }, {
+    "pattern":"\\Qlog4j.xml\\E"
+  }, 
+  {
+	"pattern": "\\Qfisglobal/.*\\E"
+  },
+  {
+    "pattern":"\\Qoracle/jdbc/defaultConnectionProperties.properties\\E"
+  }, {
+    "pattern":"\\Qoracle/jdbc/driver/errorMap.xml\\E"
+  }, {
+    "pattern":"\\Qorg/apache/log4j/xml/log4j.dtd\\E"
+  }, {
+    "pattern":"\\Qorg/springframework/beans/factory/xml/spring-beans-4.3.xsd\\E"
+  }]},
+  "bundles":[{
+    "name":"Resource",
+    "locales":[""]
+  }, {
+    "name":"com.sun.org.apache.xerces.internal.impl.xpath.regex.message",
+    "locales":[""]
+  }, {
+    "name":"oracle.jdbc.driver.Messages",
+    "locales":[""]
+  }]
+}

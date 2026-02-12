@@ -1,0 +1,32 @@
+
+Error: Tue Feb 03 11:24:22 GMT+07:00 2026
+ <IN:fisglobal.jdbc.dbaccess.ScDBError.check_error(Unknown Source)>
+
+	 java.lang.NumberFormatException: For input string: "b"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.<init>(Integer.java:1127)
+	at fisglobal.jdbc.driver.ScDriver.createTrans(Unknown Source)
+	at fisglobal.jdbc.driver.ScDriver.connect(Unknown Source)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:681)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:229)
+	at com.vtb.resouces.ProfileSource.createConnection(ProfileSource.java:70)
+	at com.vtb.resouces.ProfileSource.getConnection(ProfileSource.java:80)
+	at com.vtb.resouces.ProfileSource.<init>(ProfileSource.java:56)
+	at com.vtb.job.SunshineEntryJob.main(SunshineEntryJob.java:36)
+
+Error: Tue Feb 03 11:24:22 GMT+07:00 2026
+ <IN:fisglobal.jdbc.dbaccess.ScDBError.check_error(Unknown Source)>
+
+	 java.lang.NumberFormatException: For input string: "b"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.<init>(Integer.java:1127)
+	at fisglobal.jdbc.driver.ScDriver.createTrans(Unknown Source)
+	at fisglobal.jdbc.driver.ScDriver.connect(Unknown Source)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:681)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:229)
+	at com.vtb.resouces.ProfileSource.createConnection(ProfileSource.java:70)
+	at com.vtb.resouces.ProfileSource.getConnection(ProfileSource.java:80)
+	at com.vtb.resouces.ProfileSource.<init>(ProfileSource.java:56)
+	at com.vtb.job.SunshineEntryJob.main(SunshineEntryJob.java:36)
